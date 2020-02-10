@@ -2,4 +2,5 @@ def greeting
   puts "Hello World"
 end
 
-#greeting
+#greeting method to invoke Hello World to print to screen
+greeting
